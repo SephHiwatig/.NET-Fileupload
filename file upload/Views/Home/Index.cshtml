@@ -1,0 +1,20 @@
+﻿@model file_upload.ViewModel.FileViewModel
+
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Welcome</h1>
+    <form method="post" enctype="multipart/form-data" asp-action="upload" asp-controller="home">
+        <input type="file" asp-for="File" />
+        <button type="submit">Submit</button>
+    </form>
+    <br/>
+    <ul>
+        @foreach(var file in ViewBag.Files)
+        {
+            <li>@file.Name&nbsp;&nbsp;&nbsp;&nbsp; <a asp-action="download" asp-controller="home" asp-route-id="@file.Id">Download</a></li>
+        }
+    </ul>
+</div>

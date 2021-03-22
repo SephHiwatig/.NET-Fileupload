@@ -1,0 +1,34 @@
+C:\Users\Joseph\source\repos\file upload\file upload\bin\Debug\netcoreapp2.2\appsettings.Development.json
+C:\Users\Joseph\source\repos\file upload\file upload\bin\Debug\netcoreapp2.2\appsettings.json
+C:\Users\Joseph\source\repos\file upload\file upload\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+C:\Users\Joseph\source\repos\file upload\file upload\bin\Debug\netcoreapp2.2\file upload.deps.json
+C:\Users\Joseph\source\repos\file upload\file upload\bin\Debug\netcoreapp2.2\file upload.runtimeconfig.json
+C:\Users\Joseph\source\repos\file upload\file upload\bin\Debug\netcoreapp2.2\file upload.runtimeconfig.dev.json
+C:\Users\Joseph\source\repos\file upload\file upload\bin\Debug\netcoreapp2.2\file upload.dll
+C:\Users\Joseph\source\repos\file upload\file upload\bin\Debug\netcoreapp2.2\file upload.pdb
+C:\Users\Joseph\source\repos\file upload\file upload\bin\Debug\netcoreapp2.2\file upload.Views.dll
+C:\Users\Joseph\source\repos\file upload\file upload\bin\Debug\netcoreapp2.2\file upload.Views.pdb
+C:\Users\Joseph\source\repos\file upload\file upload\obj\Debug\netcoreapp2.2\file upload.csprojAssemblyReference.cache
+C:\Users\Joseph\source\repos\file upload\file upload\obj\Debug\netcoreapp2.2\file upload.AssemblyInfoInputs.cache
+C:\Users\Joseph\source\repos\file upload\file upload\obj\Debug\netcoreapp2.2\file upload.AssemblyInfo.cs
+C:\Users\Joseph\source\repos\file upload\file upload\obj\Debug\netcoreapp2.2\file upload.RazorAssemblyInfo.cache
+C:\Users\Joseph\source\repos\file upload\file upload\obj\Debug\netcoreapp2.2\file upload.RazorAssemblyInfo.cs
+C:\Users\Joseph\source\repos\file upload\file upload\obj\Debug\netcoreapp2.2\file upload.TagHelpers.input.cache
+C:\Users\Joseph\source\repos\file upload\file upload\obj\Debug\netcoreapp2.2\file upload.TagHelpers.output.cache
+C:\Users\Joseph\source\repos\file upload\file upload\obj\Debug\netcoreapp2.2\file upload.RazorCoreGenerate.cache
+C:\Users\Joseph\source\repos\file upload\file upload\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Joseph\source\repos\file upload\file upload\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Joseph\source\repos\file upload\file upload\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Joseph\source\repos\file upload\file upload\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+C:\Users\Joseph\source\repos\file upload\file upload\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Joseph\source\repos\file upload\file upload\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Joseph\source\repos\file upload\file upload\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Joseph\source\repos\file upload\file upload\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Joseph\source\repos\file upload\file upload\obj\Debug\netcoreapp2.2\file upload.RazorTargetAssemblyInfo.cache
+C:\Users\Joseph\source\repos\file upload\file upload\obj\Debug\netcoreapp2.2\file upload.RazorTargetAssemblyInfo.cs
+C:\Users\Joseph\source\repos\file upload\file upload\obj\Debug\netcoreapp2.2\file upload.Views.pdb
+C:\Users\Joseph\source\repos\file upload\file upload\obj\Debug\netcoreapp2.2\file upload.dll
+C:\Users\Joseph\source\repos\file upload\file upload\obj\Debug\netcoreapp2.2\file upload.pdb
+C:\Users\Joseph\source\repos\file upload\file upload\obj\Debug\netcoreapp2.2\file upload.genruntimeconfig.cache
+C:\Users\Joseph\source\repos\file upload\file upload\obj\Debug\netcoreapp2.2\file upload.csproj.CopyComplete
+C:\Users\Joseph\source\repos\file upload\file upload\obj\Debug\netcoreapp2.2\file upload.csproj.CoreCompileInputs.cache
